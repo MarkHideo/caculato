@@ -1,0 +1,10 @@
+C:\Users\Ngoc Hieu\OneDrive\Máy tính\caculato\bin\Debug\caculato.exe.config
+C:\Users\Ngoc Hieu\OneDrive\Máy tính\caculato\bin\Debug\caculato.exe
+C:\Users\Ngoc Hieu\OneDrive\Máy tính\caculato\bin\Debug\caculato.pdb
+C:\Users\Ngoc Hieu\OneDrive\Máy tính\caculato\obj\Debug\caculato.csproj.AssemblyReference.cache
+C:\Users\Ngoc Hieu\OneDrive\Máy tính\caculato\obj\Debug\caculato.Form1.resources
+C:\Users\Ngoc Hieu\OneDrive\Máy tính\caculato\obj\Debug\caculato.Properties.Resources.resources
+C:\Users\Ngoc Hieu\OneDrive\Máy tính\caculato\obj\Debug\caculato.csproj.GenerateResource.cache
+C:\Users\Ngoc Hieu\OneDrive\Máy tính\caculato\obj\Debug\caculato.csproj.CoreCompileInputs.cache
+C:\Users\Ngoc Hieu\OneDrive\Máy tính\caculato\obj\Debug\caculato.exe
+C:\Users\Ngoc Hieu\OneDrive\Máy tính\caculato\obj\Debug\caculato.pdb
